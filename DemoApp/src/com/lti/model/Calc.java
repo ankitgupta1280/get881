@@ -7,10 +7,5 @@ public class Calc {
 	public void subs (int num1,int num2) {
 		System.out.println("diffeerence is : "+(num1-num2));
 	}
-	public void multiply (int num1,int num2) {
-		System.out.println("product is : "+(num1*num2));
-	}
-	public void product(int num1,int num2) {
-		System.out.println("product is : "+(num1*num2));
-	}
+	
 }
